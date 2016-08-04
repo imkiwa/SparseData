@@ -1,2 +1,2 @@
 # SparseData
-A Java implementation of sdat2img.
+A Java library that can convert system.new.dat to andorid ext4fs image.
